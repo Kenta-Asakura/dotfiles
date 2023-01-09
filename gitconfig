@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = cd ~/code/$GITHUB_USERNAME/dotfiles && zsh git_setup.sh
-	name = kenta asak
+	email = asakura.kenta963420@gmail.com
+	name = kenta asakura
